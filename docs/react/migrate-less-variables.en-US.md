@@ -141,7 +141,7 @@ export default App;
 | --- | --- | --- |
 | `@btn-font-weight` | `fontWeight` | - |
 | `@btn-border-radius-base` | `borderRadius` | Global Token |
-| `@btn-border-radius-sm` | `borderRadisuSM` | Global Token |
+| `@btn-border-radius-sm` | `borderRadiusSM` | Global Token |
 | `@btn-border-width` | `lineWidth` | Global Token |
 | `@btn-border-style` | `lineStyle` | Global Token |
 | `@btn-shadow` | `defaultShadow` | - |
